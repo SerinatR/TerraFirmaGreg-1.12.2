@@ -33098,14 +33098,14 @@ item.tfcflorae.crop.product.woad.name=Woad
 item.tfcflorae.crop.product.hops.name=Hops
 item.tfcflorae.crop.product.rape.name=Rape
     
-item.tfcflorae.crop.product.chamomile_head.name=Chamomile Head
-item.tfcflorae.crop.product.dried.chamomile_head.name=Dried Chamomile
-item.tfcflorae.crop.product.dandelion_head.name=Dandelion Head
-item.tfcflorae.crop.product.dried.dandelion_head.name=Dreid Dandelion Head
-item.tfcflorae.crop.product.labrador_tea_head.name=Labrador Tea Head
-item.tfcflorae.crop.product.dried.labrador_tea_head.name=Dried Labrador Tea Head
-item.tfcflorae.crop.product.sunflower_head.name=Sunflower Head
-item.tfcflorae.crop.product.dried.sunflower_head.name=Dried Sunflower Head
+item.tfcflorae.crop.product.chamomile_head.name=Головка ромашки
+item.tfcflorae.crop.product.dried.chamomile_head.name=Сушеная ромашка
+item.tfcflorae.crop.product.dandelion_head.name=Голова одуванчика
+item.tfcflorae.crop.product.dried.dandelion_head.name=Голова одуванчика дреида
+item.tfcflorae.crop.product.labrador_tea_head.name=Чайная голова лабрадора
+item.tfcflorae.crop.product.dried.labrador_tea_head.name=Высушенная чайная головка лабрадора
+item.tfcflorae.crop.product.sunflower_head.name=Головка подсолнуха
+item.tfcflorae.crop.product.dried.sunflower_head.name=Высушенная головка подсолнуха
 
 item.tfcflorae.crop.product.malt_barley.name=Ячменный солод
 item.tfcflorae.crop.product.malt_corn.name=Кукурузный солод
