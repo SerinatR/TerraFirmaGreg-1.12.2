@@ -33084,12 +33084,12 @@ item.tfcflorae.crop.product.linen_net.name=Linen Disc
 item.tfcflorae.crop.product.papyrus_net.name=Papyrus Disc
 item.tfcflorae.crop.product.hemp_net.name=Hemp Disc
 
-item.tfcflorae.crop.product.dirty_silk_net.name=Dirty Silk Disc
-item.tfcflorae.crop.product.dirty_sisal_net.name=Dirty Sisal Disc
-item.tfcflorae.crop.product.dirty_cotton_net.name=Dirty Cotton Disc
-item.tfcflorae.crop.product.dirty_linen_net.name=Dirty Linen Disc
-item.tfcflorae.crop.product.dirty_papyrus_net.name=Dirty Papyrus Disc
-item.tfcflorae.crop.product.dirty_hemp_net.name=Dirty Hemp Disc
+item.tfcflorae.crop.product.dirty_silk_net.name=Грязный шелковый диск
+item.tfcflorae.crop.product.dirty_sisal_net.name=Грязный сизалевый диск
+item.tfcflorae.crop.product.dirty_cotton_net.name=Грязный ватный диск
+item.tfcflorae.crop.product.dirty_linen_net.name=Грязный льняной диск
+item.tfcflorae.crop.product.dirty_papyrus_net.name=Грязный папирусный диск
+item.tfcflorae.crop.product.dirty_hemp_net.name=Грязный конопляный диск
     
 item.tfcflorae.crop.product.indigo.name=Индиго
 item.tfcflorae.crop.product.madder.name=Марена
