@@ -33077,12 +33077,12 @@ item.tfcflorae.crop.product.olive_linen_disc.name=Olive Linen Disc
 item.tfcflorae.crop.product.olive_papyrus_disc.name=Olive Papyrus Disc
 item.tfcflorae.crop.product.olive_hemp_disc.name=Olive Hemp Disc
 
-item.tfcflorae.crop.product.silk_net.name=Silk Disc
-item.tfcflorae.crop.product.sisal_net.name=Sisal Disc
-item.tfcflorae.crop.product.cotton_net.name=Cotton Disc
-item.tfcflorae.crop.product.linen_net.name=Linen Disc
-item.tfcflorae.crop.product.papyrus_net.name=Papyrus Disc
-item.tfcflorae.crop.product.hemp_net.name=Hemp Disc
+item.tfcflorae.crop.product.silk_net.name=Шелковый диск
+item.tfcflorae.crop.product.sisal_net.name=Сизалевый диск
+item.tfcflorae.crop.product.cotton_net.name=Хлопковый диск
+item.tfcflorae.crop.product.linen_net.name=Льняной диск
+item.tfcflorae.crop.product.papyrus_net.name=Диск папируса
+item.tfcflorae.crop.product.hemp_net.name=Конопляный диск
 
 item.tfcflorae.crop.product.dirty_silk_net.name=Грязный шелковый диск
 item.tfcflorae.crop.product.dirty_sisal_net.name=Грязный сизалевый диск
